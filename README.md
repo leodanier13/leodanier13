@@ -10,6 +10,7 @@
 - 📫 Fale comigo no email **<p>leodanier13@gmail.com</p>**
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/leonardo-danier-34a6a8232/](https://www.linkedin.com/in/leonardo-danier-34a6a8232/)
 - ⚡ Curiosidades sobre mim **<p>Curto esportes, dia de sol, animais de estimação, estar com quem eu amo e café...</p>☕😁**
+- 🏅 Habilidades: Boa comunicação, gosto de trabalhar em equipe, cursando inglês, sou confiante na resolução de conflitos e alta capacidade de desenvolvimento, minha meta é trabalhar com produtos e serviços de software!
 
 <details>
   <summary><b>Algumas linguagens e ferramentas que eu uso e estou em evolução:</b></summary>
