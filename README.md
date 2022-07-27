@@ -7,7 +7,7 @@
 - 💼 Atualmente estou trabalhando na [Wave Point](@wavepoint)
 - 🔭 Procuro colaborar em **projetos para agregar meu conhecimento e minha experiência para evolução da empresa e minha prória também.**
 - 💬 Me pergunte sobre **Vendas, HTML, trabalho em equipe, venda direcionada, tecnologia**
-- 📫 Fale comigo no **<p>leodanier13@gmail.com</p>**
+- 📫 Fale comigo no email **<p>leodanier13@gmail.com</p>**
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/leonardo-danier-34a6a8232/](https://www.linkedin.com/in/leonardo-danier-34a6a8232/)
 - ⚡ Curiosidades sobre mim **<p>Curto esportes, dia de sol, animais de estimação, estar com quem eu amo e café...</p>☕😁**
 
