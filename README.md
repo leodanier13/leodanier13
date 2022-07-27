@@ -8,8 +8,6 @@
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/leonardo-danier-34a6a8232/](https://www.linkedin.com/in/leonardo-danier-34a6a8232/)
 - ⚡ Curiosidades sobre mim **<p>Curto esportes, dia de sol, animais de estimação, estar com quem eu amo e café...</p>☕😁**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leodanier13" alt="leodanier13" /></a> </p>
-
 <details>
   <summary><b>Algumas linguagens e ferramentas que eu uso e estou em evolução:</b></summary>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
