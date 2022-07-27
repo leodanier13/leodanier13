@@ -2,8 +2,6 @@
   <img src="https://github.com/leodanier13/leodanier13/raw/main/assets/header-git-hub.gif" alt="Oi, eu sou o Leonardo">
 </p>
 
-<h3 align="center">FRONT END | WEB Dev | <!HTML> | CSS | JS</h3>
-
 - 💼 Atualmente estou trabalhando na [Wave Point](@wavepoint)
 - 🔭 Procuro colaborar em **projetos para agregar meu conhecimento e minha experiência para evolução da empresa e minha prória também.**
 - 💬 Me pergunte sobre **Vendas, HTML, trabalho em equipe, venda direcionada, tecnologia**
