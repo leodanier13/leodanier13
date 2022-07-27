@@ -2,7 +2,7 @@
 <h3 align="center">FRONT END | WEB Dev | <!HTML> | CSS | JS</h3>
 
 <p align="center">
-  <img src="https://github.com/"  alt="Oi, eu sou o Leonardo">
+  <img src="https://github.com/leodanier13/leodanier13/raw/main/assets/header-git-hub.gif" alt="Oi, eu sou o Leonardo">
 </p>
 
 - 💼 Atualmente estou trabalhando na [Wave Point](@wavepoint)
