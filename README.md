@@ -18,9 +18,9 @@
   </details>
 
 <h3 align="left">📊 Métricas do GitHub:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodanier13&show_icons=true&locale=en" alt="leodanier13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodanier13&show_icons=true&locale=en&theme=dark" alt="leodanier13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodanier13&" alt="leodanier13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodanier13&theme=dark" alt="leodanier13" /></p>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
