@@ -1,6 +1,10 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo</h1>
 <h3 align="center">FRONT END | WEB Dev | <!HTML> | CSS | JS</h3>
 
+<p align="center">
+  <img src="https://github.com/"  alt="Oi, eu sou o Leonardo">
+</p>
+
 - 💼 Atualmente estou trabalhando na [Wave Point](@wavepoint)
 - 🔭 Procuro colaborar em **projetos para agregar meu conhecimento e minha experiência para evolução da empresa e minha prória também.**
 - 💬 Me pergunte sobre **Vendas, HTML, trabalho em equipe, venda direcionada, tecnologia**
