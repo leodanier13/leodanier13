@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou o Leonardo</h1>
 <h3 align="center">FRONT END | WEB Dev | <!HTML> | CSS | JS</h3>
 
-- 💼 Atualmente estou trabalhando [na Wave Point](@wavepoint)
-- 🔭 Procuro colaborar em **projetos para colaborar e agregar meu conhecimento com a empresa.**
+- 💼 Atualmente estou trabalhando na [Wave Point](@wavepoint)
+- 🔭 Procuro colaborar em **projetos para agregar meu conhecimento e minha experiência para evolução da empresa e minha prória também.**
 - 💬 Me pergunte sobre **Vendas, HTML, trabalho em equipe, venda direcionada, tecnologia**
 - 📫 Fale comigo no **leodanier13@gmail.com**
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/leonardo-danier-34a6a8232/](https://www.linkedin.com/in/leonardo-danier-34a6a8232/)
-- ⚡ Curiosidades sobre mim **<p>Curto esportes, dia de sol, animais de estimação, estar com quem eu amo e café</p>☕😁**
+- ⚡ Curiosidades sobre mim **<p>Curto esportes, dia de sol, animais de estimação, estar com quem eu amo e café...</p>☕😁**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leodanier13" alt="leodanier13" /></a> </p>
 
