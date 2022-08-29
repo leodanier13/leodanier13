@@ -17,11 +17,11 @@
 <h3 align="left">📊 Métricas do GitHub:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leodanier13&show_icons=true&locale=en&theme=dark" alt="leodanier13" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodanier13&theme=dark" alt="leodanier13" /></p>
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodanier13&layout=compact&theme=vision-friendly-dark" alt="leodanier13's most languages"/>
  </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leodanier13&theme=dark" alt="leodanier13" /></p>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
