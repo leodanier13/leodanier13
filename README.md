@@ -28,9 +28,14 @@
 <a href="https://instagram.com/leonardodanier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardodanier" height="30" width="40" /></a>
 </p>
 
-<p>(https://github-readme-stats.vercel.app/api/top-langs/?username=leodanier13)](https://github.com/leodanier13/github-readme-stats)</p>
+<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leodanier13&label=Profile%20views&color=0e75b6&style=flat" alt="leodanier13" /> </p>
+## Linguagens mais usadas
+
+<p align="left">
+<img width="530em" src="https://komarev.com/ghpvc/?username=leodanier13&label=Profile%20views&color=0e75b6&style=flat" alt="leodanier13" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodanier13&layout=compact&theme=vision-friendly-dark" alt="leodanier13's most languages"/>
+ </p>
 
 <!--
 **leodanier13/leodanier13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
